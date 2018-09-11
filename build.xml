@@ -11,7 +11,7 @@
 
                      serverurl="${sf2.serverurl}" 
 
-                     deployRoot="src"
+                     deployRoot="Delta"
 		     
 		     autoUpdatePackage="true"
 
