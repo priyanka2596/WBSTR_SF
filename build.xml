@@ -14,6 +14,7 @@
                      deployRoot="Delta/src"
 		     
 		     autoUpdatePackage="true"
+		     checkOnly="true"
 
                      ignoreWarnings="true" />
  </target>
